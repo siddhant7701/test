@@ -1,0 +1,5 @@
+{{#user}}
+Name: Siddhnat Srivastava
+Skills: HTML, CSS, JS, MongoDB, PHP, Node, React, EJs
+Email: srivastavasiddhnat32@gmail.com
+{{/user}}
